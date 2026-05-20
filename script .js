@@ -22,5 +22,7 @@ function convert() {
   }
 
   document.getElementById("output").textContent = result;
-  window.alert("Program By  0331|ozzy🫡🌐 ");
+  window.alert("Program By  Timun -0331-🫡🌐 ");
+  
 }
+window.alert("Program By  Timun -0331-🫡🌐 ");
